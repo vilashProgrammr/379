@@ -5,6 +5,8 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
+	//PASSED SOLUTION DJ+1
+	//window.location.href='index.php?delete_id='+id;
 	
 }
 // delete condition
